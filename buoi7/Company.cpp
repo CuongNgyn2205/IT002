@@ -1,3 +1,4 @@
+#pragma once
 #include"header.h"
 #include"Company.h"
 void Office::Nhap(){
